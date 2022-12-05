@@ -1,0 +1,59 @@
+.img-fluid{
+    width:124px;
+}
+
+.container{
+    background-color: grey;
+}
+.img{
+    width: 120px;
+}   
+.image1{
+    background-color: rgb(192, 11, 192);
+    background-image: url("https://www.scdn.co/i/free/bubbles-dktp.svg");
+
+}
+.phone{
+    width: 49%;
+    background-color: rgb(255, 255, 255);
+    border-top-left-radius: 16%;
+    border-top-right-radius: 16%;
+    margin-top: 24%;
+    margin-left: 32%;
+}
+.mw{
+    width: 96%;
+    margin-top: 3.5em;
+    margin-left: 5px;
+} 
+#play{
+    margin-top: 24vh;
+    font-size: 4rem;
+}
+#why{
+    font-size:3rem ;
+    
+}
+#free{
+   font-size: 4rem; 
+   background-color: rgb(143, 4, 143);
+   /* margin-top: 5%; */
+}
+ .list-group{
+    margin-left: 5%;
+    margin-top: 4%;
+    text-decoration: none;
+ }
+ #ready{
+    font-size: 4rem;
+    margin-top: 4%; ;
+ }
+ .item{
+    text-decoration: none;
+ }
+ .row bg-dark{
+    margin-top: 7%;
+ }
+ ul{
+    list-style-type: none;
+ }
